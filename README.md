@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 Hosted on Vercel : https://chat-app-liard-one-32.vercel.app/
+#
+![app image](https://github.com/saurabhsingh-7/Chat_App/blob/main/Screenshot%20(145).png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
